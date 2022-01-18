@@ -6,6 +6,6 @@ This application will inform you on social credit infractions and noncrime virtu
 
 ![Notification example screenshot](/screenshot.png?raw=true "Notification example screenshot")
 
-## Data Collection
+## Data collection
 
 Data is collected and sent back once a hour, agents may inspect this data on location without restriction.
