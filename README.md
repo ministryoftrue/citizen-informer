@@ -4,6 +4,7 @@
 
 ## 截圖
 
+![示例截圖](/screenshot.png?raw=true "示例截圖")
 
 ## 數據採集
 

@@ -4,7 +4,7 @@ This application will inform you on social credit infractions and noncrime virtu
 
 ## Screenshots
 
-
+![Notification example screenshot](/screenshot.png?raw=true "Notification example screenshot")
 
 ## Data Collection
 
